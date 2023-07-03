@@ -1,0 +1,2 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/Harlan Heilman/source/repos/ManimPresentations/media/videos/TestPresentation/480p15/partial_movie_files/DifferentRotations/4266129954_911862339_1565692674.mp4'
